@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gašper Slapničar Personal Site"
 title_separator          : "-"
 name                     : &name "Gašper Slapničar"
-description              : &description "Gašper Slapničar personal website"
+description              : &description "Gašper Slapničar Personal Site"
 url                      : https://gslapnicar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gslapnicar/gslapnicar.github.io"
@@ -77,7 +77,7 @@ author:
   name             : "Gašper Slapničar"
   avatar           : "output.jpg"
   bio              : "PhD student and ML researcher at Jožef Stefan Institute, Slovenia."
-  location         : "Slovenia"
+  location         : "Ljubljana, Slovenia"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SUx506QAAAAJ&hl=sl"

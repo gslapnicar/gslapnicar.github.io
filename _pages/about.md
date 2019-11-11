@@ -12,8 +12,10 @@ I am a PhD student and researcher at the [Department of Intelligent Systems](htt
 
 ## Education
 *2015* - **BSc in Computer and Information Science**, from Faculty of Computer and Information Science Ljubljana
+___
 *2018* - **MSc in Computer and Information Science**, from Faculty of Computer and Information Science Ljubljana
+___
 *In progress* - PhD in Information and Communication Technologies, from Jožef Stefan International Postgraduate School
 
 ## Highlighted work
-Slapničar, Gašper, Nejc Mlakar, and Mitja Luštrek. "Blood Pressure Estimation from Photoplethysmogram Using a Spectro-Temporal Deep Neural Network." *Sensors 19.15 (2019): 3420*.
+Slapničar, Gašper, Nejc Mlakar, and Mitja Luštrek. "*Blood Pressure Estimation from Photoplethysmogram Using a Spectro-Temporal Deep Neural Network.*" Sensors, 2019.

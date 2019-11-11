@@ -11,8 +11,10 @@ redirect_from:
 I am a PhD student and researcher at the [Department of Intelligent Systems](https://dis.ijs.si/) at [Jožef Stefan Institute](https://ijs.si/ijsw). My research interests include sensor data analysis (with focus on contact-free sensors), physiological signal estimation, and machine learning in general.
 
 ## Education
-*2015* - **BSc in Computer and Information Science**, from [Faculty of Computer and Information Science Ljubljana](https://fri.uni-lj.si/en)\
-*2018* - **MSc in Computer and Information Science**, from [Faculty of Computer and Information Science Ljubljana](https://fri.uni-lj.si/en)\
+*2015* - **BSc in Computer and Information Science**, from [Faculty of Computer and Information Science Ljubljana](https://fri.uni-lj.si/en)
+
+*2018* - **MSc in Computer and Information Science**, from [Faculty of Computer and Information Science Ljubljana](https://fri.uni-lj.si/en)
+
 *In progress* - **PhD in Information and Communication Technologies**, from [Jožef Stefan International Postgraduate School](https://www.mps.si/en/)
 
 ## Highlighted work
